@@ -42,3 +42,6 @@ Movie-Buddy/
 ├── movies.csv
 ├── requirements.txt
 └── README.md
+## 📸 Application Screenshot
+
+![Movie Buddy Application](movie-buddy-app.png)
