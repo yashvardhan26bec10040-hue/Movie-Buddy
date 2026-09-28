@@ -32,16 +32,17 @@ When the user selects a movie:
 4. The selected movie is removed from the results.
 5. The remaining movies are sorted by rating.
 6. The top five movies are displayed as recommendations.
+7. ## 📸 Application Screenshot
+
+![Movie Buddy Application](movie-buddy-app.png)
 
 ## 📂 Project Structure
 
 ```text
+
 Movie-Buddy/
 │
 ├── app.py
 ├── movies.csv
 ├── requirements.txt
 └── README.md
-## 📸 Application Screenshot
-
-![Movie Buddy Application](movie-buddy-app.png)
